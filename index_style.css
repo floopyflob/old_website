@@ -1,0 +1,44 @@
+body {
+    color: black;
+    background-color: aqua;
+}
+
+h1 {
+    margin-top: 160px;
+    margin-left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1#ff {
+    color: rgb(255, 1, 179);
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(255, 1, 179);
+}
+
+h1#youtube {
+    margin-top: 0px;
+    margin-left: 350px;
+}
+
+h1#bandcamp {
+    margin-top: 0px;
+    margin-left: 370px;
+}
+
+h1#ig {
+    margin-top: 0px;
+    margin-left: 390px;
+}
+
+h1#blog {
+    margin-top: 0px;
+    margin-left: 450px;
+}
