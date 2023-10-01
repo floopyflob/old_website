@@ -27,3 +27,7 @@ h1#page {
     margin-top: 0px;
     margin-left: 350px;
 }
+
+a#page:hover {
+    color: rgb(255, 1, 179);
+}
