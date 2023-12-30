@@ -15,16 +15,15 @@ img {
     width: fit-content;
 }
 
-h4#home {
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-}
-
 a {
-    color: white;
     text-decoration: none;
 }
 
 a:hover {
     color: rgb(255, 1, 179);
+}
+
+h4#home {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
