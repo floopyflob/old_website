@@ -7,3 +7,8 @@ body {
 img {
     align-content: center;
 }
+
+div.images {
+    margin-left: auto;
+    margin-right: auto;
+}
