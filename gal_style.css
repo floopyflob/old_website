@@ -4,6 +4,10 @@ body {
     text-align: center;
 }
 
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 img {
     align-content: center;
 }
@@ -12,3 +16,4 @@ div.images {
     margin-left: auto;
     margin-right: auto;
 }
+
