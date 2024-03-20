@@ -14,3 +14,17 @@ img {
     margin-top: 50px;
     width: fit-content;
 }
+
+footer {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
